@@ -1,3 +1,9 @@
+/*
+ * Luis Joyanes Aguilar, Ignacio Zahonero Martinez.(2008).
+ * Grafos, representación y operaciones.
+ * En Estructura de datos en Java(431 - 456).
+ * España: Mc Graw Hill.
+ */
 import java.util.Scanner;
 
 class Vertice {
